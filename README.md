@@ -33,7 +33,7 @@ After training, we get the following results:
 
 ![Alt text](output/test_batch0_pred.jpeg)
 
-![Alt text](output/test_batch2_labels.jpeg)
+![Alt text](output/test_batch1_labels.jpeg)
 
 
 ## Outputs
