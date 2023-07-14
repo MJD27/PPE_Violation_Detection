@@ -35,7 +35,6 @@ After training, we get the following results:
 
 ![Alt text](output/test_batch2_labels.jpg)
 
-![Alt text](output/IMG_20230520_043809.jpg)
 
 ## Outputs
 
